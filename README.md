@@ -1,16 +1,17 @@
-### Hi there 👋
+[](!Image)
+<img src="https://raw.githubusercontent.com/israelmendez232/israelmendez232/master/ISRAEL%20MENDES.png" alt="banner - ISRAEL MENDES - DATA, ANALYTICS, VISUALIZATION, STATISTICS"> 
 
-<!--
-**israelmendez232/israelmendez232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 🤓
+I'm Israel Mendes working in Sao Paulo, Brazil. My main focus is to provide value for bussiness usind data and technology. A little about me:
+- Working as Head of Data and B.I. on [Vet Smart](https://www.vetsmart.com.br/)
+- Solid background on data analysis, statistics and AWS cloud;
+- Using Python and SQL on my daily bases;
+- I'm in love to learning and teaching.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contacts
+  <a href="https://www.linkedin.com/in/israel-mendes/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:israel.mendez232@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://medium.com/@israel.mendez1"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/></a>
+
+### Domains
