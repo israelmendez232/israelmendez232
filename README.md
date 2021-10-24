@@ -2,8 +2,8 @@
 <img src="https://raw.githubusercontent.com/israelmendez232/israelmendez232/master/ISRAEL%20MENDES.png" alt="banner - ISRAEL MENDES - DATA, ANALYTICS, VISUALIZATION, STATISTICS"> 
 
 ### Hi there 🤓
-I'm Israel Mendes, having 25 years and working in Sao Paulo, Brazil. My main focus is to provide value for businesses using data and technology. A little about me:
-- Working as Head of Data and B.I. on [Vet Smart](https://www.vetsmart.com.br/)
+I'm Israel Mendes, having 27 years and working in Sao Paulo, Brazil. My main focus is to provide value for businesses using data and technology. A little about me:
+- Working as senior data engineer;
 - Solid background on data analysis, statistics and AWS cloud;
 - Using Python and SQL on my daily bases;
 - I'm in love with learning and teaching.
